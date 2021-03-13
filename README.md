@@ -140,7 +140,7 @@ imagem abaixo, adicionando cada uma das dependências descritas a seguir:
 -   Lombok
 -   Spring Web
 
-![](demo\demo_1.png)
+![](demo/demo1.png)
 
 Após isso, basta clicar no botão GENERATE para fazer download de um
 arquivo compactado com seu projeto Spring montado. Agora, basta
