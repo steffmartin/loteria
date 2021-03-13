@@ -569,8 +569,3 @@ mais a oferecer, então continue praticando!
 
 Este projeto está no GitHub, com algumas modificações extras do que foi
 explicado aqui, acesse em <https://github.com/steffmartin/loteria>.
-
-```
-Escrito por: Steffan Martins
-Publicado em: 13/03/20221 12:00
-```
