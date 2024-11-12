@@ -1,3 +1,5 @@
+> **Aviso**: Este projeto foi desenvolvido no início da minha carreira como parte do meu processo de aprendizado. Embora funcione conforme o esperado, ele pode não refletir as práticas ou tecnologias mais atuais. Ainda assim, espero que possa servir como uma fonte útil de referência e aprendizado. Explore o código à vontade!
+
 **API REST em Java usando Spring Boot**
 
 Neste post vamos aprender a construir uma API REST em Java do zero
